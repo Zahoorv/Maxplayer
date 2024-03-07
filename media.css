@@ -1,0 +1,418 @@
+
+@media(max-width:1080px){
+    selection{
+        padding: 100px 50px;
+        
+    }
+    .logo2 {
+        margin-left: 30px;
+    }
+    a {
+        padding: 0px 8px;
+    }
+    .fa-house{
+        margin-left: 25px;
+
+    }
+    .fa-solid{
+        margin-left:10px ;
+    }
+    .container{
+        row-gap: 15px;
+        width: 100%;
+    }   
+    .logo2 {
+        margin-left: 10px 
+}
+    .qr-code {
+        height: 70px;
+}
+    .company-section {
+        margin: 0px 20px;
+    }     
+    .footer-sec2 {
+        padding: 0px 30px 0px 30px;
+    }
+    .info-foot { 
+        padding: 0px 40px;   
+    }
+}
+@media(max-width:1050px){
+    .install-cont {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    row-gap: 20px;
+
+    }
+}
+@media (max-width:1024px){
+    .banner{
+        width: 100%;
+    }
+    .follw-apps{
+        width: 380px;
+    }
+    }
+@media(max-width:1000px){
+    .banner{
+         width: 100%; 
+    } 
+
+    .logo1 {
+        margin-left: 50PX;
+    }
+   .foot-col2 h3 {
+            font-size: 15px;
+    }       
+}
+@media(max-width:950px){
+    .banner{
+         width: 100%; 
+    } 
+    .container{
+        padding-top: 10px;
+    }
+
+    .logo1 {
+        margin-left: 20px;
+    }
+    .fa-house {
+        margin-left: 5px;
+    }
+    .logo2{
+        display: none;
+    }
+    .content h4 {
+        font-size: 45px;
+    }.content p {
+        font-size: 28px;
+    }
+    .button{
+        font-size: 10px;
+        padding: 5px 5px 15px 5px;
+    }
+    .footer-sec1 {
+        font-size: 12px;
+    }
+    .info-foot{
+    flex-wrap: wrap;
+    padding: 15px 20px;
+    }
+}
+@media (max-width:900px){
+    .banner{
+        width: 100%;
+    }
+    .footer-sec2 {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-evenly;
+        row-gap: 20px;
+        }
+    .install-cont h4 {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-evenly;
+        row-gap: 20px;
+        }
+    .foot-col1 {
+        display: flex;  
+        flex-direction: column;
+    }
+    .foot-col2{
+        width: 100%;
+        text-align: center;
+    }
+    .button{
+        font-size: 12px;
+        padding: 10px 10px 24px 6px;
+    }
+    .row {
+        font-size: 22px;
+}
+}
+@media (max-width:850px){
+    .banner{
+        width: 100%;
+    }
+    .logo1 {
+        margin-left: 15px;
+    }
+    .button{
+        font-size: 12px;
+        padding: 10px 10px 20px 10px;
+    }
+    .content h4 {
+        font-size: 40px;
+    }
+    .content p {
+        font-size: 26px;
+    }
+    .footer-sec1 {
+        font-size: 10px;
+    }
+    .foot-col1 p {
+        font-size: 10px;
+    }
+    .footer-sec-about{
+        min-width: 290px;
+    }
+    .follw-apps{
+        width: 330px;
+    }
+
+}
+@media (max-width:800px){
+    .banner{
+        width: 100%;
+    }
+    .logo1 {
+        margin-left: 15px;
+    }
+    .button{
+        font-size: 10px;
+        padding: 8px 8px 18px 8px;
+    }
+    .content h4 {
+        font-size: 40px;
+    }
+    .content p {
+        font-size: 25px;
+    }
+   .button{
+        padding: 8px 6px 20px 9px;
+        font-size: 10px;
+    }   
+    .dropdownmenu li .active {
+        display: none;        
+    }
+    }
+@media (max-width:768px){
+    .banner{
+        width: 100%;
+        }
+    .button{
+        font-size: 8px;
+        padding: 8px 8px 20px 8px;
+        }
+        }
+@media (max-width:750px){
+    .banner{
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 37px;
+    }
+    .content p {
+        font-size: 23px;
+    }
+    .button{
+        font-size: 8px;
+        padding: 8px 8px 18px 8px;
+        }
+    .menu1 a{
+        display: none;
+    }
+    .info-foot{
+        justify-content: start;
+    }
+    .install-cont{
+        display: none;
+    }
+    .footer-sec-about{
+        width: 100%;
+        }
+
+    }
+@media (max-width:700px){
+    .banner {
+        width: 100%;
+    }
+    
+    .dropdownmenu li .active {
+        font-size: 10px;
+    }
+    .login a{
+        display: none;
+    }
+    .button{
+        font-size: 6px;
+        padding: 8px 8px 18px 8px;
+        }
+    .content h4 {
+        font-size: 35px;
+        }    
+    .content p {
+        font-size: 21px;
+        }  
+    .row_poster {
+        width:75%;
+    }
+    .row h3{
+        font-size: 22px;
+    }      
+    }
+@media (max-width:650px){
+    .dropdownmenu li a {
+        display: none;
+    }
+    .banner {
+        width: 100%;
+    }
+    .button{
+        font-size: 4px;
+        padding: 16px 16px 20px 16px;
+        }
+    .dropdownmenu li .active {
+        font-size: 8px;
+        }
+    .container {
+        left: -12px;
+    }
+    .content h4 {
+        font-size: 33px;
+        }    
+    .content p {
+        font-size: 20px;
+        }   
+}
+@media (max-width:600px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 29px;
+        }    
+    .content p {
+        font-size: 18px;
+        }   
+}
+@media (max-width:550px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 26px;
+        }    
+    .content p {
+        font-size: 16px;
+        }   
+}
+@media (max-width:500px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 24px;
+        }    
+    .content p {
+        font-size: 14px;
+        }   
+    .dropdownmenu li .active1 {
+        display: none;        
+    }
+}
+@media (max-width:450px){
+    .banner {
+        width: 100%;
+    }
+    .footer-sec-copyright {
+        padding: 10px 25px;
+    }
+    .content h4 {
+        font-size: 22px;
+        }    
+    .content p {
+        font-size: 12px;
+        }   
+}
+@media (max-width:425px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 20px;
+        }    
+    .content p {
+        font-size: 12px;
+    }
+    .row_poster {
+        width:85%;
+    }
+    .row h3{
+        font-size: 20px;
+    }      
+}
+@media (max-width:400px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 18px;
+        }    
+    .content p {
+        font-size: 8px;
+    }
+}
+@media (max-width:375px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 18px;
+        }    
+    .content p {
+        font-size: 12px;
+    }
+    .row_poster {
+        width:80%;
+}
+    .row h3{
+    font-size: 18px;
+}      
+}
+@media (max-width:350px){
+    .banner {
+        width: 100%;
+    }
+    .follw-apps{
+        width: 280px;
+        margin: 10px 0px;
+    }
+    .details-text1{
+        min-width: 280px;
+    }
+    .content h4 {
+        font-size: 16px;
+        }    
+    .content p {
+        font-size: 8px;
+    }
+}
+@media (max-width:320px){
+    .banner {
+        width: 100%;
+    }
+    .content h4 {
+        font-size: 18px;
+    }
+    .content p {
+        font-size: 12px;
+    }
+    .row_poster {
+        width:75%;
+}
+    .row h3{
+    font-size: 16px;
+}          
+    }   
